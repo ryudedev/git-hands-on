@@ -1,2 +1,2 @@
 # git-hands-on
-develop branch
+main branch
