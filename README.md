@@ -1,2 +1,4 @@
 # git-hands-on
-supporterz git hunz-on
+main branch
+# 自己紹介
+名前：高本龍信(こうもとりゅうしん)
