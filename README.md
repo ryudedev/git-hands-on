@@ -1,4 +1,3 @@
 # git-hands-on
-main branch
-# 自己紹介
-名前：高本龍信(こうもとりゅうしん)
+## 背景
+サポーターズのgithub hands onで使用しました。
